@@ -11,6 +11,7 @@ This GitHub repo is where I house all my UX research and case studies.
 ---
 #### STUDY INDEX 
 📌 [The Psychology of Button Design](./buttondesignstudy.md)
+📌 More studies loading soon!
 ---
 
 ## What I Do (Besides UX)
