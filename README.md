@@ -23,6 +23,7 @@ This GitHub repo is where I house all my UX research and case studies.
 ---
 ## 🤝 Let’s Connect
 
+- 💻 [Portfolio](https://zero1100010-01110010-01101001-01100001.onrender.com/) - Check my profile
 - 🔗 [LinkedIn](https://www.linkedin.com/in/brianroymathew) – Come for the insights, stay for the creative posts  
 - 📸 [Instagram](https://www.instagram.com/brianroymathew) – IRL moments only
 
