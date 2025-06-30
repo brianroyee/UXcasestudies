@@ -4,7 +4,7 @@
 
 This beginner-friendly research project explores how the **shape of a button’s corners** influences user interaction. The hypothesis: *Rounded buttons feel more inviting and are clicked more often than sharp-edged ones.*
 
-- **Duration**: 3 weeks  
+- **Duration**: 1 week
 - **Methods**: Manual observation, simple surveys, basic prototyping  
 - **Tools**: Basic HTML/CSS, Google Forms, pen & paper
 
