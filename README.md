@@ -10,7 +10,7 @@ I’m not just pushing buttons—I’m understanding why people love clicking th
 
 This GitHub repo is where I house all my UX research and case studies.
 
-> INDEX
+#### INDEX
 [The Psychology of Button Design](./buttondesignstudy.md)
 
 ## What I Do (Besides UX)
