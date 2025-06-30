@@ -6,12 +6,12 @@ I design experiences that *feel* right—then I break them down, case-study styl
 Welcome to my digital sandbox where my mind thinks in pixels, and my strageties are more than just pretty. 
 I’m not just pushing buttons—I’m understanding why people love clicking them.
 
-## What You'll Find in This Repo
-
 This GitHub repo is where I house all my UX research and case studies.
 
-#### INDEX
-[The Psychology of Button Design](./buttondesignstudy.md)
+---
+#### STUDY INDEX 
+📌 [The Psychology of Button Design](./buttondesignstudy.md)
+---
 
 ## What I Do (Besides UX)
 
@@ -19,7 +19,7 @@ This GitHub repo is where I house all my UX research and case studies.
 - Create marketing and product strategies for startups
 - Do SOC & DevSecOps @ ESAF SFB as an Intern
 - Also play guitar
-  
+---
 ## 🤝 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/brianroymathew) – Come for the insights, stay for the creative posts  
