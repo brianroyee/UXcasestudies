@@ -22,7 +22,7 @@ The current generation faces shrinking attention spans and struggles with motiva
 
 ## 💡 Research Insights
 
-### Gen-Z Behavioral Patterns (in generak)
+### Gen-Z Behavioral Patterns (in general)
 
 - **Short attention span** (~8 sec avg.)
 - Seeks **instant gratification** and feedback
