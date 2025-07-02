@@ -3,11 +3,12 @@
 ## 📘 Study Overview
 
 This UX case study explores the essential emotional psychology triggers that must be integrated into products to engage the 18–25 age group.  
+
 The hypothesis: *When products are designed to tap into dopamine-driven behaviors using cognitive and emotional cues, they become more engaging, habit-forming, and successful.*
 
-- **Duration**: Ongoing behavioral study
+- **Duration**: Ongoing 
 - **Focus Areas**: Motivation, Retention, Engagement  
-- **Tools**: UX psychology, Figma, Notion, Web/App Prototypes
+- **Tools**: UX psychology, Web/App Prototypes
 
 ---
 
