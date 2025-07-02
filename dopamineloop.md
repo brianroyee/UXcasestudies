@@ -45,24 +45,8 @@ The current generation faces shrinking attention spans and struggles with motiva
 
 ---
 
-## 🧬 Flow Blueprint: The Dopamine Journey
-
-[Onboarding → Personalized Setup] \n
-↓
-[First Task → Instant Reward]
-↓
-[Social Prompt → Peer Activity Shown]
-↓
-[Mood Check-in → Custom Encouragement]
-↓
-[Streak Continues → Level Up]
-↓
-[FOMO Event Unlocks → Returns Again]
-
----
-
 ## ✅ Design Checklist for product design 
-> This list is based on the personal research
+> This list is based on the personal research. 
 
 - [x] Streaks, XP, Progress meters  
 - [x] Personal avatars, mood-based personalization  
@@ -75,14 +59,16 @@ The current generation faces shrinking attention spans and struggles with motiva
 ---
 
 ## 📈 Metrics to Measure Emotional Stickiness
+> These are easy-to-track signals that tell us if users love the product and keep coming back:
 
-| Metric | What It Indicates |
-|--------|------------------|
-| Day-1 to Day-7 Retention | Habit formation strength |
-| Time-to-First-Action | Onboarding effectiveness |
-| Mood check-in completion | Emotional investment |
-| Social shares/invites | Social proof in play |
-| Feature revisit rate | Hook strength |
+| 📊 Metric | 💬 What It Tells Us |
+|----------|---------------------|
+| **Daily Return Rate** | Are users coming back every day? |
+| **First Task Completion** | Is the onboarding easy and motivating? |
+| **Streaks Maintained** | Are users building habits with it? |
+| **Mood Check-in Usage** | Do users feel emotionally connected? |
+| **Shares / Invites** | Are users excited enough to tell friends? |
+| **Feature Reuse** | Are people using the same feature again and again? |
 
 ---
 
