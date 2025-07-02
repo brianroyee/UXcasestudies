@@ -47,7 +47,7 @@ The current generation faces shrinking attention spans and struggles with motiva
 
 ## 🧬 Flow Blueprint: The Dopamine Journey
 
-[Onboarding → Personalized Setup]
+[Onboarding → Personalized Setup] \n
 ↓
 [First Task → Instant Reward]
 ↓
